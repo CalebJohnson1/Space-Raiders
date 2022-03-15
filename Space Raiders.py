@@ -35,7 +35,6 @@ print("Press the 'Left' or 'a' key on your keyboard to turn left.")
 print("Press the 'Down' or 'w or s' key on your keyboard to turn all the way around.")
 print("\nWatch out for the spaceship that moves around the map! It may be evil.\n")
 
-
 # Python Turtle stuff
 canvas = Screen()
 canvas.title("Space Raiders")
